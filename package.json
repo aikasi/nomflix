@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage" : "https://aikasi.github.io/nomflix",
+  "homepage" : "https://distracted-thompson-227dc1.netlify.app/",
   "browserslist": {
     "production": [
       ">0.2%",
